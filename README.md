@@ -3,6 +3,7 @@ A modern neon themed gym landing page. Built with HTML & CSS ONLY.
 This project was created as my first GitHub upload to demonstrate clean structure, responsive design, and front‑end fundamentals.
 
 ## Live Demo
+https://tsgoode89.github.io/CodeGym/
 
 ## Features
 - Fully responsive layout  
